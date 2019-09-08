@@ -12,16 +12,13 @@ REAL ETH/NCT OR FOR ANYTHING SENSITIVE**
 
 ## Docker Setup
 
-Pull the priv-testnet docker image from the gitlab container registry, or build with
-the provided `Dockerfile`. Run with `launch_priv_testnet_docker.sh`.
+Pull the `polyswarm/parity` docker image from the gitlab container registry, or build with
+the provided `Dockerfile`. Run with `launch_parity_docker.sh`.
 
 ## Local Setup
 
-Run with `launch_priv_testnet_local.sh`.
+TODO
 
 ## Customizing
 
-If you add new keyfiles, will need to change the unlock arguments in both
-`Dockerfile` and `launch_priv_testnet_local.sh`.
-
-TODO: script to regenerate these.
+TODO
