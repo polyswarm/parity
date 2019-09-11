@@ -1,3 +1,7 @@
+# parity
+
+PolySwarm test network using parity
+
 # Development Network Setup
 
 Sets up a development Ethereum environment, unifies some of the various scripts

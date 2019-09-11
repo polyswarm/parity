@@ -12,7 +12,7 @@ stages:
 
 variables:
   DOCKER_HOST: tcp://localhost:2375/
-  BASE_IMAGE_NAME: priv-testnet
+  BASE_IMAGE_NAME: parity
 
 ###############################################################
 # Build Stage (jobs inside a stage run in parallel)
